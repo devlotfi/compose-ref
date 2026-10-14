@@ -23,5 +23,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Compose Ref"
-include(":app")
 include(":composeref")
