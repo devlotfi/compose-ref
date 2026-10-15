@@ -221,7 +221,3 @@ fun VideoScreen(context: Context) {
 - **Reference equality**: `Ref` is a plain class (not a `data class`), so two refs are never equal unless they are the same instance.
 
 ---
-
-## Used by
-
-- [compose-query](https://github.com/devlotfi/compose-query): uses refs to track in-flight jobs, request counters and the first-resume flag.
